@@ -39,10 +39,10 @@ function Picture() {
     <h1>Rasika</h1>
     <h2>Frontend Developer</h2>
     <span>
-        <a href='https://github.com' target="_blank">
+        <a href='https://github.com/Rasika70' target="_blank">
         <img src={githubIcon} alt="Github icon"/>
         </a>
-        <a href='https://linkedin.com' target="_blank">
+        <a href='https://www.linkedin.com/in/rasika-kr-970537289/' target="_blank">
         <img src={linkedinIcon} alt="Linkeddin icon"/>
         </a>
     </span>
