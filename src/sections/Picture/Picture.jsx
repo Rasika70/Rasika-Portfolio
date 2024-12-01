@@ -42,7 +42,7 @@ function Picture() {
         <a href='https://github.com/Rasika70' target="_blank">
         <img src={githubIcon} alt="Github icon"/>
         </a>
-        <a href='https://www.linkedin.com/in/rasika-kr-970537289/' target="_blank">
+        <a href='https://www.linkedin.com/in/rasika-k-r-970537289/' target="_blank">
         <img src={linkedinIcon} alt="Linkeddin icon"/>
         </a>
     </span>
