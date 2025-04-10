@@ -3,7 +3,7 @@ import styles from './ProjectsStyles.module.css';
 import ExamHallSeating from '../../assets/Exam.jfif';
 import HeartDiseasePrediction from '../../assets/Heart.jfif';
 import Portfolio from '../../assets/portfolio.jpg';
-import SeniorCitizenFilter from '../../assets/SeniorCitizen.jpg'
+import EcommerceWebsite from '../../assets/Ecommerce_Logo.jpg'
 import ProjectCard from "../../common/ProjectCard";
 function Projects(){
     return(
@@ -24,15 +24,15 @@ function Projects(){
             />
             <ProjectCard 
             src={Portfolio}
-             link="https://github.com/Rasika70/HeartDisease_Prediction" 
+             link="https://github.com/Rasika70/Rasika-Portfolio" 
             h3="Web Portfolio"
             p="Resume"
             />
              <ProjectCard 
-            src={SeniorCitizenFilter}
-             link="https://github.com/Rasika70/Senior-Citizen-Filter" 
-            h3="Senior_Citizen_Filter"
-            p="Beginner Project"
+            src={EcommerceWebsite}
+             link="https://github.com/Rasika70/Ecommerce_website" 
+            h3="Ecommerce_website"
+            p="Consultancy Project"
             />
             
         </div>
